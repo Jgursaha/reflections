@@ -9,3 +9,6 @@ Staging area offers an interim step wherby it logically does not impact either t
 How can you use the staging area to make sure you have one commit per logical change?
 
 progressively promote files to staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+beta and alpha testing
