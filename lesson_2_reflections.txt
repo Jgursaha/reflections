@@ -12,3 +12,7 @@ progressively promote files to staging area
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 beta and alpha testing
+
+How do the diagrams help you visualize the branch structure?
+
+Easy to visualise how many branches and whcih commits in a branch
