@@ -16,3 +16,6 @@ beta and alpha testing
 How do the diagrams help you visualize the branch structure?
 
 Easy to visualise how many branches and whcih commits in a branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging code from 2 different sources.
