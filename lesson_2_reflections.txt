@@ -5,3 +5,7 @@ So that git creates a repository and allows me to version control the files.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area offers an interim step wherby it logically does not impact either the repository or the working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+progressively promote files to staging area
