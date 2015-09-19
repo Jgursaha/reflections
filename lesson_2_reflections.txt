@@ -19,3 +19,7 @@ Easy to visualise how many branches and whcih commits in a branch
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging code from 2 different sources.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+manual merging allows experts to appropriately merge code conflicts
